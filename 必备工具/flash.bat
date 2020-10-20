@@ -1,0 +1,1 @@
+AFUDOS.exe backup.ROM /p /b /n /R /shutdown

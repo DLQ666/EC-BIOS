@@ -1,0 +1,1 @@
+nvflash -6 backup.rom

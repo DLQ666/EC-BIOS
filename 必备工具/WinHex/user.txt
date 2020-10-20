@@ -1,0 +1,8 @@
+// WinHex license file
+
+Name: "汉化新世纪"
+Addr1: "www.hanzify.org"
+Addr2: "www.hanzify.org"
+Key1: "B3D5F9B95AE0571B1C547EE950932C9E"
+Key2: "3D1657C99E44A5C31A481939D8629E92"
+Chksm: "CC"
